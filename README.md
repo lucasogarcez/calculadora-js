@@ -1,2 +1,2 @@
 # calculadora-js
-Calculadora desenvolvida por meio da lingugagem Javascript
+Calculadora desenvolvida por meio da linguagem Javascript (projeto de aprendizagem básica)
